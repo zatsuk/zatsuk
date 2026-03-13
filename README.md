@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gabriel Lorenzo
+# 🧑🏼‍💻 Gabriel Lorenzo
 
 **`Desenvolvedor FrontEnd`**
 
