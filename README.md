@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Me chamo Gabriel Di Lorenzo, tenho 20 anos e sou natural de Minas Gerais. Atualmente, estou cursando Sistemas de informação na FEPI. Gosto muito de tecnologia e estou fazendo curso online na OnebitCode de fullstack java-script
+Me chamo Gabriel Di Lorenzo, tenho 20 anos e sou natural de Minas Gerais. Atualmente, estou cursando Sistemas de informação na FEPI. Gosto muito de tecnologia e estou fazendo curso online na OnebitCode de fullstack java-script e Asimov academy
 
 ---
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bielzn.vx/)
