@@ -27,7 +27,3 @@ conhecimentos na prática.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 📊 Estatísticas
-
-[![zatsuk GitHub stats](https://github-readme-stats.vercel.app/api?username=zatsuk&show_icons=true&theme=dark)](https://github.com/zatsuk)
