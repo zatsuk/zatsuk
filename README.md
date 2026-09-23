@@ -6,7 +6,7 @@ Me chamo Gabriel Di Lorenzo, tenho 20 anos e sou natural de Minas Gerais. Atualm
 
 ---
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bielzn.vx/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lorenzo-9100172b8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellorenzo1/)
 
 ### 🤖 Linguagens e Tecnologias
 
